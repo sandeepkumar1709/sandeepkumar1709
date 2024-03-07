@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing my Masters in Software Engineering at the University of Maryland - College Park<br>I’m currently pursuing my Master’s in Software Engineering at the University of Maryland - College Park. As a passionate software developer, I thrive on solving complex problems and creating elegant solutions. My journey in the world of technology has been exciting, and I’m always eager to learn and explore new horizons.<br><br>Feel free to connect with me on LinkedIn to stay updated on my latest projects and tech adventures!
+🔭 I’m currently pursuing my Master’s in Software Engineering at the University of Maryland - College Park. As a passionate software developer, I thrive on solving complex problems and creating elegant solutions. My journey in the world of technology has been exciting, and I’m always eager to learn and explore new horizons.<br><br>Feel free to connect with me on LinkedIn to stay updated on my latest projects and tech adventures!
 
 
 ## 🌐 Socials:
